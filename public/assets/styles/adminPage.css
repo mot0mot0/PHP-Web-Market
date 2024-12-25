@@ -7,6 +7,12 @@ body {
 }
 
 .admin-container {
+  margin: 20px auto;
+  width: 90%;
+  max-width: 1200px;
+}
+
+.orders-adding-card {
   width: 90%;
   max-width: 600px;
   margin: 40px auto;
@@ -17,7 +23,7 @@ body {
   box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
 }
 
-.section-title {
+.page-title {
   text-align: center;
   color: #dc3545;
   margin-bottom: 20px;
