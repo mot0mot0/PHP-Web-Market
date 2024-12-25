@@ -1,5 +1,5 @@
 <?php
-require_once __DIR__ . '/../services/PocketBase.php';
+require_once __DIR__ . '/../model/PocketBase.php';
 
 class BuyerController
 {
