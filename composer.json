@@ -1,0 +1,11 @@
+{
+    "name": "ustin/php-web-market",
+    "autoload": {
+        "psr-4": {
+            "Ustin\\PhpWebMarket\\": "src/"
+        }
+    },
+    "require": {
+        "guzzlehttp/guzzle": "^7.9"
+    }
+}
